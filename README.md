@@ -1,8 +1,8 @@
 # sandwich-club
-# Project Overview
+## Project Overview
 The Sandwich Club app has a list of sandwiches, it shows the details of each sandwich once it is selected.
 
-# Project Details
+## Project Details
 This project is to show how:
 - Practice JSON parsing to a model object
 - Design an activity layout
