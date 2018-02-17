@@ -1,4 +1,5 @@
 # sandwich-club
+Project for the Android Developer Nanodegree Program
 ## Project Overview
 The Sandwich Club app has a list of sandwiches, it shows the details of each sandwich once it is selected.
 
